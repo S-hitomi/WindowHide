@@ -1,0 +1,4 @@
+mouse~=0.7.1
+keyboard~=0.13.5
+pystray~=0.19.5
+pillow~=11.2.1
