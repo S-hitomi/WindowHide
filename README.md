@@ -14,4 +14,4 @@ https://github.com/S-hitomi/WindowHide/releases/download/v1.0.1/windows_hide_1.0
   
 # Source of idea
 灵感来自b站up主思维实验室的视频 https://www.bilibili.com/video/BV1btTCzBE3j/  
-及kuer_的窗口透明化工具 https://blog.csdn.net/kuer_/article/details/136479103
+及kuer_的窗口透明化工具 (CSDN) https://blog.csdn.net/kuer_/article/details/136479103 (Github) https://github.com/iwill123/Window2Clear
