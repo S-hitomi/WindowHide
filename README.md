@@ -1,9 +1,9 @@
 # WindowHide
-欢迎使用 WindowHide！这是一款小巧而强大的 Windows 窗口透明化管理工具，旨在为您提供更灵活、更高效、也更有趣的桌面体验。
-无论您是希望在繁忙的工作中“摸鱼”片刻，还是需要在多个应用间高效参考，甚至只是想让桌面看起来更酷，WindowHide 都能满足您的需求。
-
-Welcome to WindowHide! This lightweight yet powerful Windows window-management tool is built to give you a more flexible, more efficient, and—let’s be honest—more fun desktop experience.
-Whether you’re slipping in a quick break during a hectic workday, jumping between multiple apps for fast cross-referencing, or simply want your desktop to look cooler, WindowHide has you covered.
+欢迎使用 WindowHide！这是一款小巧而强大的 Windows 窗口透明化管理工具，旨在为您提供更灵活、更高效、也更有趣的桌面体验。  
+无论您是希望在繁忙的工作中“摸鱼”片刻，还是需要在多个应用间高效参考，甚至只是想让桌面看起来更酷，WindowHide 都能满足您的需求。  
+  
+Welcome to WindowHide! This lightweight yet powerful Windows window-management tool is built to give you a more flexible, more efficient, and—let’s be honest—more fun desktop experience.  
+Whether you’re slipping in a quick break during a hectic workday, jumping between multiple apps for fast cross-referencing, or simply want your desktop to look cooler, WindowHide has you covered.  
   
 应用场景1：需要鼠标移开时窗口隐身，处于某种原因希望隐藏摸鱼窗口  
 应用场景2：需要窗口透明化，同时看到两个应用的窗口方便互相参考/摘抄  
